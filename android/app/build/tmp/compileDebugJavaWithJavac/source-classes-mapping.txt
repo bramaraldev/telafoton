@@ -1,0 +1,14 @@
+com/instalog/MainActivity.java
+ com.instalog.MainActivity
+com/instalog/BuildConfig.java
+ com.instalog.BuildConfig
+com/instalog/MainApplication.java
+ com.instalog.MainApplication
+ com.instalog.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/instalog/ReactNativeFlipper.java
+ com.instalog.ReactNativeFlipper
+ com.instalog.ReactNativeFlipper$1
+ com.instalog.ReactNativeFlipper$2
+ com.instalog.ReactNativeFlipper$2$1
